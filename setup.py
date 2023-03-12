@@ -9,7 +9,7 @@ setup(
     url='https://github.com/shri142/password-strength',
     packages=['password_strength'],
     install_requires=['requests'],
-    keywords=['python','passwords','password_strength','password_generator']
+    keywords=['python','passwords','password_strength','password_generator'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
