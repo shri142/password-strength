@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='password_strength',
+    name='passstrength142',
     version='1.0.0',
     description='A package for checking the strength of passwords and generating random passwords',
     author='Shrikrishna Umbare',
     author_email='shrikrishna2002umbare@gmail.com',
     url='https://github.com/shri142/password-strength',
-    packages=['password_strength'],
+    packages=['passstrength142'],
     install_requires=['requests'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
