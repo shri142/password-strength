@@ -1,4 +1,4 @@
-from password import check_password_strength, generate_random_password
+from passstrength142 import check_password_strength, generate_random_password
 
 option = input("Enter 1 to check password strength or 2 to generate a random password: ")
 
